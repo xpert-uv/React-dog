@@ -1,0 +1,9 @@
+.dogs{
+    border:2px solid black;
+    padding: 1%;
+    display:inline-block;
+}
+
+.dogs img{
+    width:150px;
+}

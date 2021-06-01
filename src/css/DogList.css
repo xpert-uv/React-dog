@@ -1,0 +1,16 @@
+.doglist{
+    display: flex;
+     align-items: center;
+  justify-content: center;
+  
+}
+
+.doglist img{
+    width: 200px;
+   
+}
+.doglist div{
+     border: 2px solid white;
+     margin: 2%;
+     box-shadow:20px black;
+}
